@@ -427,7 +427,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320301",
-        "siskeudes_kecamatan_kode": "01"
+        "siskeudes_kecamatan_kode": "01",
+		"siskeudes_kecamatan_nama": "KECAMATAN CIANJUR"
       },
       "id": 2060
     },
@@ -1121,7 +1122,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320306",
-        "siskeudes_kecamatan_kode": "06"
+        "siskeudes_kecamatan_kode": "06",
+		"siskeudes_kecamatan_nama": "KECAMATAN BOJONGPICUNG"
       },
       "id": 2065
     },
@@ -1707,7 +1709,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320302",
-        "siskeudes_kecamatan_kode": "02"
+        "siskeudes_kecamatan_kode": "02",
+		"siskeudes_kecamatan_nama": "KECAMATAN WARUNGKONDANG"
       },
       "id": 2061
     },
@@ -2741,7 +2744,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320303",
-        "siskeudes_kecamatan_kode": "03"
+        "siskeudes_kecamatan_kode": "03",
+		"siskeudes_kecamatan_nama": "KECAMATAN CIBEBER"
       },
       "id": 2062
     },
@@ -3303,7 +3307,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320307",
-        "siskeudes_kecamatan_kode": "07"
+        "siskeudes_kecamatan_kode": "07",
+		"siskeudes_kecamatan_nama": "KECAMATAN KARANGTENGAH"
       },
       "id": 2066
     },
@@ -4213,7 +4218,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320308",
-        "siskeudes_kecamatan_kode": "08"
+        "siskeudes_kecamatan_kode": "08",
+		"siskeudes_kecamatan_nama": "KECAMATAN MANDE"
       },
       "id": 2067
     },
@@ -4811,7 +4817,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320311",
-        "siskeudes_kecamatan_kode": "11"
+        "siskeudes_kecamatan_kode": "11",
+		"siskeudes_kecamatan_nama": "KECAMATAN CUGENANG"
       },
       "id": 2070
     },
@@ -5469,7 +5476,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320313",
-        "siskeudes_kecamatan_kode": "13"
+        "siskeudes_kecamatan_kode": "13",
+		"siskeudes_kecamatan_nama": "KECAMATAN SUKARESMI"
       },
       "id": 2072
     },
@@ -6407,7 +6415,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320316",
-        "siskeudes_kecamatan_kode": "16"
+        "siskeudes_kecamatan_kode": "16",
+		"siskeudes_kecamatan_nama": "KECAMATAN TAKOKAK"
       },
       "id": 2075
     },
@@ -6945,7 +6954,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320319",
-        "siskeudes_kecamatan_kode": "19"
+        "siskeudes_kecamatan_kode": "19",
+		"siskeudes_kecamatan_nama": "KECAMATAN TANGGEUNG"
       },
       "id": 2078
     },
@@ -7863,7 +7873,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320321",
-        "siskeudes_kecamatan_kode": "21"
+        "siskeudes_kecamatan_kode": "21",
+		"siskeudes_kecamatan_nama": "KECAMATAN SINDANGBARANG"
       },
       "id": 2080
     },
@@ -8917,7 +8928,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320324",
-        "siskeudes_kecamatan_kode": "24"
+        "siskeudes_kecamatan_kode": "24",
+		"siskeudes_kecamatan_nama": "KECAMATAN NARINGGUL"
       },
       "id": 2083
     },
@@ -9959,7 +9971,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320326",
-        "siskeudes_kecamatan_kode": "26"
+        "siskeudes_kecamatan_kode": "26",
+		"siskeudes_kecamatan_nama": "KECAMATAN CIKADU"
       },
       "id": 2085
     },
@@ -10717,7 +10730,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320312",
-        "siskeudes_kecamatan_kode": "12"
+        "siskeudes_kecamatan_kode": "12",
+		"siskeudes_kecamatan_nama": "KECAMATAN CIKALONGKULON"
       },
       "id": 2071
     },
@@ -11747,7 +11761,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320315",
-        "siskeudes_kecamatan_kode": "15"
+        "siskeudes_kecamatan_kode": "15",
+		"siskeudes_kecamatan_nama": "KECAMATAN CAMPAKA"
       },
       "id": 2074
     },
@@ -13049,7 +13064,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320320",
-        "siskeudes_kecamatan_kode": "20"
+        "siskeudes_kecamatan_kode": "20",
+		"siskeudes_kecamatan_nama": "KECAMATAN CIBINONG"
       },
       "id": 2079
     },
@@ -14451,7 +14467,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320323",
-        "siskeudes_kecamatan_kode": "23"
+        "siskeudes_kecamatan_kode": "23",
+		"siskeudes_kecamatan_nama": "KECAMATAN CIDAUN"
       },
       "id": 2082
     },
@@ -15061,7 +15078,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320328",
-        "siskeudes_kecamatan_kode": "28"
+        "siskeudes_kecamatan_kode": "28",
+		"siskeudes_kecamatan_nama": "KECAMATAN CIPANAS"
       },
       "id": 2087
     },
@@ -15559,7 +15577,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320329",
-        "siskeudes_kecamatan_kode": "29"
+        "siskeudes_kecamatan_kode": "29",
+		"siskeudes_kecamatan_nama": "KECAMATAN CIJATI"
       },
       "id": 2088
     },
@@ -16165,7 +16184,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320304",
-        "siskeudes_kecamatan_kode": "04"
+        "siskeudes_kecamatan_kode": "04",
+		"siskeudes_kecamatan_nama": "KECAMATAN CILAKU"
       },
       "id": 2063
     },
@@ -16663,7 +16683,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320305",
-        "siskeudes_kecamatan_kode": "05"
+        "siskeudes_kecamatan_kode": "05",
+		"siskeudes_kecamatan_nama": "KECAMATAN CIRANJANG"
       },
       "id": 2064
     },
@@ -17321,7 +17342,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320309",
-        "siskeudes_kecamatan_kode": "09"
+        "siskeudes_kecamatan_kode": "09",
+		"siskeudes_kecamatan_nama": "KECAMATAN SUKALUYU"
       },
       "id": 2068
     },
@@ -17905,7 +17927,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320310",
-        "siskeudes_kecamatan_kode": "10"
+        "siskeudes_kecamatan_kode": "10",
+		"siskeudes_kecamatan_nama": "KECAMATAN PACET"
       },
       "id": 2069
     },
@@ -18675,7 +18698,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320314",
-        "siskeudes_kecamatan_kode": "14"
+        "siskeudes_kecamatan_kode": "14",
+		"siskeudes_kecamatan_nama": "KECAMATAN SUKANAGARA"
       },
       "id": 2073
     },
@@ -19549,7 +19573,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "3203",
-        "siskeudes_kecamatan_kode": "17"
+        "siskeudes_kecamatan_kode": "17",
+		"siskeudes_kecamatan_nama": "KECAMATAN KADUPANDAK"
       },
       "id": 2076
     },
@@ -20515,7 +20540,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320318",
-        "siskeudes_kecamatan_kode": "18"
+        "siskeudes_kecamatan_kode": "18",
+		"siskeudes_kecamatan_nama": "KECAMATAN PAGELARAN"
       },
       "id": 2077
     },
@@ -21453,7 +21479,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320322",
-        "siskeudes_kecamatan_kode": "22"
+        "siskeudes_kecamatan_kode": "22",
+		"siskeudes_kecamatan_nama": "KECAMATAN AGRABINTA"
       },
       "id": 2081
     },
@@ -22099,7 +22126,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320325",
-        "siskeudes_kecamatan_kode": "25"
+        "siskeudes_kecamatan_kode": "25",
+		"siskeudes_kecamatan_nama": "KECAMATAN CAMPAKAMULYA"
       },
       "id": 2084
     },
@@ -22597,7 +22625,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320327",
-        "siskeudes_kecamatan_kode": "27"
+        "siskeudes_kecamatan_kode": "27",
+		"siskeudes_kecamatan_nama": "KECAMATAN GEKBRONG"
       },
       "id": 2086
     },
@@ -23131,7 +23160,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320331",
-        "siskeudes_kecamatan_kode": "31"
+        "siskeudes_kecamatan_kode": "31",
+		"siskeudes_kecamatan_nama": "KECAMATAN HAURWANGI"
       },
       "id": 2090
     },
@@ -23905,7 +23935,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320332",
-        "siskeudes_kecamatan_kode": "32"
+        "siskeudes_kecamatan_kode": "32",
+		"siskeudes_kecamatan_nama": "KECAMATAN PASIRKUDA"
       },
       "id": 2091
     },
@@ -24519,7 +24550,8 @@
         "smartvillage_provinsi_kode": "32",
         "smartvillage_kabupaten_kode": "3203",
         "smartvillage_kecamatan_kode": "320330",
-        "siskeudes_kecamatan_kode": "30"
+        "siskeudes_kecamatan_kode": "30",
+		"siskeudes_kecamatan_nama": "KECAMATAN LELES"
       },
       "id": 2089
     }
